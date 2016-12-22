@@ -1,0 +1,40 @@
+.blue{
+    margin-top: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 250px;
+    float: left;
+    background: #4781E8;
+        
+}
+.red{
+  margin-top: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 25px;
+    float: left;
+    background: #DB2F38;
+}
+.yellow{
+     margin-top: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 25px;
+    float: left;
+    background:#F3C00B;
+}
+.green{
+     margin-top: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 25px;
+    float: left;
+    background:#3CB954;
+}
+h1{
+    padding-top: 55px;
+}
